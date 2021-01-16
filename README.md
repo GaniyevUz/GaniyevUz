@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**GaniyevUz/GaniyevUz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently learning Python
+- 👨‍💻 I’m looking to collaborate on projects
+- 💬 Not enough qualified To answer anything
+- 🌐 [Ganiyev.Uz](https://ganiyev.uz)
+- 📫 Reach me on [![Dynamic name](https://img.shields.io/badge/JokkerKing-30302f?style=flat&logo=telegram)](https://t.me/JokkerKing)
 
-Here are some ideas to get you started:
+- ⚡ Fun fact :- `Life is full of failure But still trying :)`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Dynamic name](https://github-readme-stats.vercel.app/api?username=GaniyevUz&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaniyevUz&layout=compact&theme=radical)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GaniyevUz/)
