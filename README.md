@@ -1,7 +1,8 @@
-
-- 💻 I’m currently learning Python
+- 👋 Hello Guys, My Name Jakhongir
+- 💻 I know PHP & MYSQLI
+- 🐍 I’m currently learning Python
 - 👨‍💻 I’m looking to collaborate on projects
-- 💬 Not enough qualified To answer anything
+- 💬 I'm 18-years old developer from Uzbekistan/Namagan
 - 🌐 [Ganiyev.Uz](https://ganiyev.uz)
 - 📫 Reach me on [![Dynamic name](https://img.shields.io/badge/JokkerKing-30302f?style=flat&logo=telegram)](https://t.me/JokkerKing)
 
