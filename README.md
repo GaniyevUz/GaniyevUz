@@ -1,4 +1,4 @@
-- 👋 Hello Guys, My Name Jakhongir
+- 👋 What's up guys, I'm Jakhongir
 - 💻 I know PHP & MYSQLI
 - 🐍 I’m currently learning Python
 - 👨‍💻 I’m looking to collaborate on projects
@@ -6,7 +6,7 @@
 - 🌐 [Ganiyev.Uz](https://ganiyev.uz)
 - 📫 Reach me on [![Dynamic name](https://img.shields.io/badge/JokkerKing-30302f?style=flat&logo=telegram)](https://t.me/JokkerKing)
 
-- ⚡ Fun fact :- `Life is full of failure But still trying :)`
+- ⚡ Fun fact :- `Don't talk bad about anyone behind their back. This simple rule will change your life.`
 
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=GaniyevUz&show_icons=true&theme=radical)
 
