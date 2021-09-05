@@ -3,7 +3,7 @@
 - 🐍 I’m currently learning Python
 - 👨‍💻 I’m looking to collaborate on projects
 - 💬 I'm 18-years old developer from Uzbekistan/Namagan
-- 🌐 [Ganiyev.Uz](https://ganiyev.uz)
+- 🌐 [Ganiyev.Uz](http://ganiyev.uz)
 - 📫 Reach me on [![Dynamic name](https://img.shields.io/badge/JokkerKing-30302f?style=flat&logo=telegram)](https://t.me/JokkerKing)
 
 - ⚡ Fun fact :- `One day you'll look back and realize that you worried too much about things that don't really matter.`
