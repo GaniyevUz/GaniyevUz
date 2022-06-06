@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://ganiyev.uz/portfolio](https://ganiyev.uz/portfolio)
 - 📝 I regularly write articles on [https://ganiyev.uz/blog](https://ganiyev.uz/blog)
 - 📄 Know about my experiences [https://ganiyev.uz/resume](https://ganiyev.uz/resume)
-- 🌐 [Ganiyev.Uz](http://ganiyev.uz)
+- 🌐 My personal website is here [https://ganiyev.uz/](https://ganiyev.uz)
 
 - ⚡ Fun fact :- `One day you'll look back and realize that you worried too much about things that don't really matter.`
 
