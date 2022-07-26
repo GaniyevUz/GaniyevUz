@@ -1,7 +1,7 @@
 
 # Hello, I'm Jakhongir Ganiev
 - 👋 What's up guys, I'm happy you to here 
-- 💻 I know PHP & MYSQL (OOP), 
+- 💻 I know PHP (OOP) & MYSQL, Python (Learing),   
 - 🐍 I’m currently learning new skills and improving the old ones
 - 💬 I'm 19-years old developer from Uzbekistan/Namagan
 - 👨‍💻 All of my projects are available at [https://ganiyev.uz/portfolio](https://ganiyev.uz/portfolio)
