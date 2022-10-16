@@ -1,13 +1,13 @@
 
 # Hello, I'm Jakhongir Ganiev
 - 👋 What's up guys, I'm happy you to here 
-- 💻 I know PHP (OOP) & MYSQL, Python (Learing),   
+- 💻 I know PHP & MYSQL, Python & PostgreSQL...,   
 - 🐍 I’m currently learning new skills and improving the old ones
 - 💬 I'm 19-years old developer from Uzbekistan/Namagan
-- 👨‍💻 All of my projects are available at [https://ganiyev.uz/portfolio](https://ganiyev.uz/portfolio)
-- 📝 I regularly write articles on [https://ganiyev.uz/blog](https://ganiyev.uz/blog)
-- 📄 Know about my experiences [https://ganiyev.uz/resume](https://ganiyev.uz/resume)
-- 🌐 My personal website is here [https://ganiyev.uz/](https://ganiyev.uz)
+- 👨‍💻 All of my projects are available at [http://ganiyev.ga/portfolio](https://ganiyev.uz/portfolio)
+- 📝 I regularly write articles on [http://ganiyev.ga/blog](https://ganiyev.uz/blog)
+- 📄 Know about my experiences [http://ganiyev.ga/resume](https://ganiyev.uz/resume)
+- 🌐 My personal website is here [http://ganiyev.ga/](https://ganiyev.uz)
 
 - ⚡ Fun fact :- `One day you'll look back and realize that you worried too much about things that don't really matter.`
 
