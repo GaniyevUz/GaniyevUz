@@ -21,3 +21,4 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaniyevUz&layout=compact&theme=radical)](https://github.com/GaniyevUz?tab=repositories)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http://github.com/GaniyevUz/)  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCtEHXOnBfznbFq6uruIU9FQ?style=social)
+[![wakatime](https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg)](https://wakatime.com/@db09ea1e-a9cf-4643-a860-074ea73193d3)
