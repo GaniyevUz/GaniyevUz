@@ -6,10 +6,10 @@
 - 💻 I know PHP & MYSQL, Python & PostgreSQL...,   
 - 🐍 I’m currently learning new skills and improving the old ones
 - 💬 I'm 19-years old developer from Uzbekistan/Namagan
-- 👨‍💻 All of my projects are available at [http://ganiyev.ga/portfolio](https://ganiyev.uz/portfolio)
-- 📝 I regularly write articles on [http://ganiyev.ga/blog](https://ganiyev.uz/blog)
-- 📄 Know about my experiences [http://ganiyev.ga/resume](https://ganiyev.uz/resume)
-- 🌐 My personal website is here [http://ganiyev.ga/](https://ganiyev.uz)
+- 👨‍💻 All of my projects are available at [http://ganiyev.uz/portfolio](https://ganiyev.ga/portfolio)
+- 📝 I regularly write articles on [http://ganiyev.uz/blog](https://ganiyev.ga/blog)
+- 📄 Know about my experiences [http://ganiyev.uz/resume](https://ganiyev.ga/resume)
+- 🌐 My personal website is here [http://ganiyev.uz/](https://ganiyev.ga)
 
 - ⚡ Fun fact :- `One day you'll look back and realize that you worried too much about things that don't really matter.`
 
