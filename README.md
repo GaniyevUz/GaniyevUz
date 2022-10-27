@@ -1,5 +1,7 @@
 
 # Hello, I'm Jakhongir Ganiev
+[![wakatime](https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg)](https://wakatime.com/@db09ea1e-a9cf-4643-a860-074ea73193d3)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http://github.com/GaniyevUz/)  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCtEHXOnBfznbFq6uruIU9FQ?style=social)
 - 👋 What's up guys, I'm happy you to here 
 - 💻 I know PHP & MYSQL, Python & PostgreSQL...,   
 - 🐍 I’m currently learning new skills and improving the old ones
@@ -19,6 +21,3 @@
 [![Dynamic name](https://github-readme-stats.vercel.app/api?username=GaniyevUz&show_icons=true&theme=radical)](https://github.com/GaniyevUz)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaniyevUz&layout=compact&theme=radical)](https://github.com/GaniyevUz?tab=repositories)
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http://github.com/GaniyevUz/)  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCtEHXOnBfznbFq6uruIU9FQ?style=social)
-[![wakatime](https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg)](https://wakatime.com/@db09ea1e-a9cf-4643-a860-074ea73193d3)
