@@ -26,4 +26,3 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=ganiyevuz&theme=radical&margin-w=20" alt="rashideveloperr" /></a>
 </p>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ganiyevuz&show_icons=true&locale=en&theme=radical"  alt="rashideveloperr"/>
