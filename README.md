@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=ganiyevuz&icon=1&color=1)](https://visitcount.itsvg.in) [![wakatime](https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg)](https://wakatime.com/@000c077a-1c2c-49e3-a8de-257586c33f00)
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://facebook.com/djangochi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ganiyevuz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganiyevuz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/khamdullaevuz)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://facebook.com/djangochi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ganiyevuz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganiyevuz) 
 ## 🧮 Algorithms
 [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/ganiyevuz)
 
