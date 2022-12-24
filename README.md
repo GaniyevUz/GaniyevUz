@@ -22,3 +22,8 @@
 ## The projects I am currently working on:
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ganiyevuz&repo=django-blog&theme=radical)](https://github.com/ganiyevuz/django-blog)
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=ganiyevuz&theme=radical&margin-w=20" alt="rashideveloperr" /></a>
+</p>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ganiyevuz&show_icons=true&locale=en&theme=radical"  alt="rashideveloperr"/>
