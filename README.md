@@ -25,6 +25,6 @@
 [![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ganiyevuz&bg_color=ffffff&color=9e4c98&line=f000e0&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/ganiyevuz">
-<img src="https://github-profile-trophy.vercel.app/?username=ganiyevuz&theme=radical&margin-w=20" alt="rashideveloperr" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=ganiyevuz&theme=radical" alt="GaniyevUz" /></a>
 </p>
 
