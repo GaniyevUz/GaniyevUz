@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=ganiyevuz&icon=1&color=1" />
-<a href="https://wakatime.com/@ganiyevuz"><img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" /></a>
+<a href="https://wakatime.com/@ganiyevuz" target="_blank"><img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" /></a>
 </p>
 
 - 🔭 I’m currently working on Django (DRF)
