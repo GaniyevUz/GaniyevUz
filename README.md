@@ -34,7 +34,7 @@
 <p>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GaniyevUz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
-<img width="50%" height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaniyevUz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img width="48%" height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaniyevUz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 <p align="center"><img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaniyevUz&theme=tokyonight&hide_border=true" alt="Ganiyevuz" /></p>
