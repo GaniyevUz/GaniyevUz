@@ -13,7 +13,7 @@
 
 - 📫 How to reach me [**ganiyevuzb@gmail.com**](mailto:ganiyevuzb@gmail.com)
 
-- 📄 Know about my experiences by this [**Resume**](https://app.enhancv.com/share/845b8f7f)
+- 📄 Know about my experiences by this [**Resume**](https://github.com/GaniyevUz/GaniyevUz/blob/main/JakhongirGaniev.pdf)
 
 
 ## 🌐 Socials:
