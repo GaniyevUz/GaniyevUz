@@ -43,4 +43,4 @@
 
 ## The projects I am currently working on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ganiyevuz&repo=django-blog&theme=radical)](https://github.com/ganiyevuz/django-blog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xolmomin&repo=p6_100k&theme=radical)](https://github.com/xolmomin/p6_100k)
