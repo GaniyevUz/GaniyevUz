@@ -43,4 +43,5 @@
 
 ## The projects I am currently working on:
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xolmomin&repo=messenger&theme=radical)](https://github.com/xolmomin/messenger)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xolmomin&repo=p6_100k&theme=radical)](https://github.com/xolmomin/p6_100k)
