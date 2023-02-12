@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on [StarByFaceBot](https://t.me/StarByFaceBot)
 
 - 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
-
+- 📰 I regularly write articles on [@PythonGuy](https://t.me/PythonGuy)
 - 📫 How to reach me [**ganiyevuzb@gmail.com**](mailto:ganiyevuzb@gmail.com)
 
 - 📄 Know about my experiences by this [**Resume**](https://github.com/GaniyevUz/GaniyevUz/blob/main/JakhongirGaniev.pdf)
