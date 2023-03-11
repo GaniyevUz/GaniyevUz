@@ -12,12 +12,12 @@
 - 📰 I regularly write articles on [@PythonGuy](https://t.me/PythonGuy)
 - 📫 How to reach me [**ganiyevuzb@gmail.com**](mailto:ganiyevuzb@gmail.com)
 
-- 📄 Know about my experiences by this [**Resume**](https://github.com/GaniyevUz/GaniyevUz/blob/main/JakhongirGaniev.pdf)
+- 📄 Know about my experiences by this [**Resume**](https://github.com/GaniyevUz/GaniyevUz/blob/main/JakhongirGanievResume.pdf)
 
 
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://djangochi.t.me/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ganiyevuz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganiyevuz)  [![Gmail](https://img.shields.io/badge/ganiyevuzb@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:ganiyevuzb@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/ganiyevuz)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://djangochi.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganiyevuz)  [![Gmail](https://img.shields.io/badge/ganiyevuzb@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:ganiyevuzb@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/ganiyevuz)
 
 
 
@@ -59,6 +59,8 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ganiyevuz&theme=radical">
+<br/>
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganiyevuz&theme=tokyonight">
 <br/>
  
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaniyevUz&theme=tokyonight&hide_border=true" alt="Ganiyevuz">
