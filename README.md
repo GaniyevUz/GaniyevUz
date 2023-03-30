@@ -72,8 +72,3 @@
 <br/>
 
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ganiyevuz&bg_color=141321&line=6fa5fc&point=6fa5fc&color=9ae5e6&area=true&hide_border=true)](https://github.com/ganiyevuz)
-
-## The projects I am currently working on:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GaniyevUz&repo=BotCommerce&theme=radical)](https://github.com/GaniyevUz/BotCommerce)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akhroruz&repo=modme_clone&theme=radical)](https://github.com/akhroruz/modme_clone)
