@@ -55,8 +55,11 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-# 📊 GitHub Stats:
 
+# 📊 LeetCode Stats:
+<p align="center"><img src="https://leetcard.jacoblin.cool/ganiyevuz?theme=nord&font=Allerta&ext=activity"></p>
+
+# 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ganiyevuz&theme=radical">
 <br/>
