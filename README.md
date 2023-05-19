@@ -39,6 +39,7 @@
 
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=%23092E20)
 ![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![](https://img.shields.io/badge/FastApi?style=flat&logo=fastapi&logoColor=white&color=ff1709&labelColor=gray)
 ![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fff.svg?style=flat&logo=linux&logoColor=black) 
@@ -57,7 +58,7 @@
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 # 📊 LeetCode Stats:
-<p align="center"><img src="https://leetcard.jacoblin.cool/ganiyevuz?theme=nord&font=Allerta&ext=activity"></p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/ganiyevuz?theme=nord&font=Allerta&ext=heatmap"></p>
 
 # 📊 GitHub Stats:
 <p align="center">
