@@ -15,6 +15,7 @@
 - 📄 Know about my experiences by this [**Resume**](https://github.com/GaniyevUz/GaniyevUz/blob/main/JakhongirGanievResume.pdf)
 
 
+[![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://djangochi.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganiyevuz)  [![Gmail](https://img.shields.io/badge/ganiyevuzb@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:ganiyevuzb@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/ganiyevuz)
@@ -39,7 +40,7 @@
 
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=%23092E20)
 ![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![](https://img.shields.io/badge/FastApi?style=flat&logo=fastapi&logoColor=white&color=ff1709&labelColor=gray)
+![](https://img.shields.io/badge/fastapi?style=flat&logo=fastapi&logoColor=white&color=ff1709&labelColor=gray)
 ![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fff.svg?style=flat&logo=linux&logoColor=black) 
@@ -74,5 +75,6 @@
 <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaniyevUz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
+
 
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ganiyevuz&bg_color=141321&line=6fa5fc&point=6fa5fc&color=9ae5e6&area=true&hide_border=true)](https://github.com/ganiyevuz)
