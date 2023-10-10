@@ -76,3 +76,8 @@
 <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaniyevUz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
+
+## 👁️ Number of visits:
+<p align="center">
+   <img src="https://profile-counter.glitch.me/{ganiyevuz}/count.svg"/>
+</p>
