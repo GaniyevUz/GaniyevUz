@@ -59,7 +59,7 @@
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 # 📊 LeetCode Stats:
-<p align="center"><img src="https://leetcard.jacoblin.cool/ganiyevuz?theme=nord&font=Allerta&ext=heatmap"></p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/ganiyevuz?theme=nord&font=Allerta"></p>
 
 # 📊 GitHub Stats:
 <p align="center">
