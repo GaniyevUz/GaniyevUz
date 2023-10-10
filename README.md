@@ -76,6 +76,3 @@
 <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaniyevUz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
-
-
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ganiyevuz&bg_color=141321&line=6fa5fc&point=6fa5fc&color=9ae5e6&area=true&hide_border=true)](https://github.com/ganiyevuz)
