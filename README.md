@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on Django (DRF)
-- 👯 I’m looking to collaborate on [StarByFaceBot](https://t.me/StarByFaceBot)
+- 👯 I’m looking to collaborate on [Insavegram Bot](https://t.me/insavegrambot)
 
 - 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
 - 📰 I regularly write articles on [@PythonGuy](https://t.me/PythonGuy)
