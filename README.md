@@ -18,7 +18,7 @@
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://djangochi.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganiyevuz)  [![Gmail](https://img.shields.io/badge/ganiyevuzb@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:ganiyevuzb@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/ganiyevuz)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://ganiyevuz.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganiyevuz)  [![Gmail](https://img.shields.io/badge/ganiyevuzb@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:ganiyevuzb@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/ganiyevuz)
 
 
 
