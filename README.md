@@ -40,7 +40,9 @@
 
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=%23092E20)
 ![](https://img.shields.io/badge/Django-REST-information?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![FastAPI](https://img.shields.io/badge/fastapi?style=flat&logo=fastapi&logoColor=white&color=ff1709&labelColor=gray)
+![](https://img.shields.io/badge/FastAPI-information?color=005571&style=flat&logo=fastapi)
+![](https://img.shields.io/badge/SQLAlchemy-information?color=E95420&style=flat&logo=SQLAlchemy)
+
 ![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fff.svg?style=flat&logo=linux&logoColor=black) 
@@ -51,6 +53,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) 
+![](https://img.shields.io/badge/Gunicorn-information?color=%298729&style=flat&logo=gunicorn&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%23Clojure.svg?style=flat&logo=Celery&logoColor=Green) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
