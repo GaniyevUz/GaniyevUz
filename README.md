@@ -5,17 +5,13 @@
 <a href="https://wakatime.com/@ganiyevuz" target="_blank"><img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" /></a>
 </p>
 
-- 🔭 I’m currently working on Django (DRF)
-- 👯 I’m looking to collaborate on [Insavegram Bot](https://t.me/insavegrambot)
-
+- 🔭 I’m currently working on [The Nikel Token](https://www.nikeltoken.com/)
 - 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
 - 📰 I regularly write articles on [@PythonGuy](https://t.me/PythonGuy)
 - 📫 How to reach me [**ganiyevuzb@gmail.com**](mailto:ganiyevuzb@gmail.com)
 
-- 📄 Know about my experiences by this [**Resume**](https://github.com/GaniyevUz/GaniyevUz/blob/main/JakhongirGanievResume.pdf)
 
-
-[![Snake](https://profile-readme-generator.com/assets/snake.svg)]
+![Snake](https://profile-readme-generator.com/assets/snake.svg)
 ## 🌐 Socials:
 
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://ganiyevuz.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganiyevuz)  [![Gmail](https://img.shields.io/badge/ganiyevuzb@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:ganiyevuzb@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/ganiyevuz)
@@ -43,6 +39,7 @@
 ![](https://img.shields.io/badge/FastAPI-information?color=005571&style=flat&logo=fastapi)
 ![](https://img.shields.io/badge/SQLAlchemy-information?color=E95420&style=flat&logo=SQLAlchemy)
 
+![](https://img.shields.io/badge/MacOS-information?color=343d46&style=flat&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fff.svg?style=flat&logo=linux&logoColor=black) 
@@ -60,9 +57,6 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-
-# 📊 LeetCode Stats:
-<p align="center"><img src="https://leetcard.jacoblin.cool/ganiyevuz?theme=nord&font=Allerta"></p>
 
 
 # 📊 GitHub Stats:
