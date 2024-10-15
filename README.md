@@ -5,7 +5,7 @@
 <a href="https://wakatime.com/@ganiyevuz" target="_blank"><img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" /></a>
 </p>
 
-- 🔭 I’m currently working on [The Nikel Token](https://www.nikeltoken.com/)
+- 🔭 I’m currently working on Projects at [XCDM](https:/xcdm.ai)
 - 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
 - 📰 I regularly write articles on [@PythonGuy](https://t.me/PythonGuy)
 - 📫 How to reach me [**ganiyevuzb@gmail.com**](mailto:ganiyevuzb@gmail.com)
