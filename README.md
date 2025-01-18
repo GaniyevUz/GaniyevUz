@@ -57,6 +57,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-compose-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![](https://img.shields.io/badge/PyCharm-information?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
@@ -66,8 +67,6 @@
 <br/>
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganiyevuz&theme=tokyonight">
 <br/>
- 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=GaniyevUz&theme=tokyonight&hide_border=true" alt="Ganiyevuz">
 
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=GaniyevUz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
