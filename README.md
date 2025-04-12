@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Jakhongir Ganiev</h1>
-<h3 align="center">Lead Python Software Engineer | Backend Specialist | Tech Mentor</h3>
+<h3 align="center">🔧 Experienced Backend Dev | Python + Django | Team Lead & System Designer | Tech Mentor</h3>
 
 <p align="center">
   <a href="https://wakatime.com/@ganiyevuz" target="_blank">
