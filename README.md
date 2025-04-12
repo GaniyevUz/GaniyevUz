@@ -1,6 +1,6 @@
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
 <h1 align="center">Hi 👋, I'm Jakhongir</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+<h3 align="center">🔧 Experienced Backend Dev | Python + Django | Team Lead & System Designer</h3>
 <p align="center">
 <a href="https://wakatime.com/@ganiyevuz" target="_blank"><img src="https://wakatime.com/badge/user/db09ea1e-a9cf-4643-a860-074ea73193d3.svg" /></a>
 </p>
