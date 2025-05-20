@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact" alt="Quote" />
+  <img src="https://github.com/ganiyevuz/GaniyevUz/blob/main/0520.gif?raw=true" alt="Demo" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Jakhongir Ganiev</h1>
 <h3 align="center">🔧 Experienced Backend Dev | Python + Django | Team Lead & System Designer | Tech Mentor</h3>
